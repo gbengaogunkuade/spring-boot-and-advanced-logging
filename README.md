@@ -1,12 +1,14 @@
 # spring-boot-and-advanced-logging
 How to implement and customized advanced logging in spring boot
-You can view the logs from both a Log file and on the console.
-You can even set the size of the log file, how often it should archive older log files,
-and how many days it should keep the log files
+- you can view the logs from both a Log file and on the console.
+- you can even set the size of the log file, 
+- you can also set often it should archive older log files
+- and how many days it should keep the log files
 
-This is an app to generate Strong Passwords Developed By **Gbenga Ogunkuade**
+How to implement and customized advanced logging in spring boot was Developed By **Gbenga Ogunkuade**
 
-![This is another image](https://github.com/gbengaogunkuade/strong-password-generator/blob/main/STRONG-PASSWORD.png)
+![This is another image](https://github.com/gbengaogunkuade/spring-boot-and-advanced-logging/blob/main/LOGS-IMAGE.png)
+
 
 
 #
