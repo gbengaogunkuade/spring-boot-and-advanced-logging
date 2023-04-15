@@ -1,0 +1,25 @@
+2023-04-15 21:35:15 [main] INFO  c.o.engineers.EngineersApplication - Starting EngineersApplication using Java 18.0.2 with PID 24224 (D:\PROGRAMMING\JAVA AND SPRINGBOOT\SPRINGBOOT-PROJECTS\LOGGING\Logging-with-SLF4J-LOGBACK-using-logback-xml\engineers\target\classes started by GBENGA-OGUNKUADE in D:\PROGRAMMING\JAVA AND SPRINGBOOT\SPRINGBOOT-PROJECTS\LOGGING\Logging-with-SLF4J-LOGBACK-using-logback-xml\engineers)
+2023-04-15 21:35:15 [main] DEBUG c.o.engineers.EngineersApplication - Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-15 21:35:15 [main] INFO  c.o.engineers.EngineersApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-15 21:35:21 [main] INFO  c.o.engineers.EngineersApplication - Started EngineersApplication in 6.508 seconds (process running for 8.17)
+2023-04-15 21:35:49 [http-nio-6666-exec-1] INFO  c.o.e.service.EngineerService - ALL ENGINEERS SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 21:36:06 [http-nio-6666-exec-3] INFO  c.o.e.service.EngineerService - ENGINEER WITH AN ID 4 SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 21:36:06 [http-nio-6666-exec-3] ERROR c.o.e.service.EngineerService - ERROR ME
+2023-04-15 21:36:06 [http-nio-6666-exec-3] WARN  c.o.e.service.EngineerService - WARN ME
+2023-04-15 21:36:23 [http-nio-6666-exec-4] INFO  c.o.e.service.EngineerService - ENGINEER WITH AN ID 2 SUCCESSFULLY UPDATED
+2023-04-15 21:36:55 [main] INFO  c.o.engineers.EngineersApplication - Starting EngineersApplication using Java 18.0.2 with PID 12164 (D:\PROGRAMMING\JAVA AND SPRINGBOOT\SPRINGBOOT-PROJECTS\LOGGING\Logging-with-SLF4J-LOGBACK-using-logback-xml\engineers\target\classes started by GBENGA-OGUNKUADE in D:\PROGRAMMING\JAVA AND SPRINGBOOT\SPRINGBOOT-PROJECTS\LOGGING\Logging-with-SLF4J-LOGBACK-using-logback-xml\engineers)
+2023-04-15 21:36:55 [main] DEBUG c.o.engineers.EngineersApplication - Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-15 21:36:55 [main] INFO  c.o.engineers.EngineersApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-15 21:37:02 [main] INFO  c.o.engineers.EngineersApplication - Started EngineersApplication in 7.957 seconds (process running for 10.168)
+2023-04-15 21:37:12 [http-nio-6666-exec-1] INFO  c.o.e.service.EngineerService - ENGINEER WITH AN ID 4 SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 21:45:56 [main] INFO  c.o.engineers.EngineersApplication - Starting EngineersApplication using Java 18.0.2 with PID 31648 (D:\PROGRAMMING\JAVA AND SPRINGBOOT\APPS-ON-GITHUB\engineers\target\classes started by GBENGA-OGUNKUADE in D:\PROGRAMMING\JAVA AND SPRINGBOOT\APPS-ON-GITHUB\engineers)
+2023-04-15 21:45:56 [main] DEBUG c.o.engineers.EngineersApplication - Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-15 21:45:56 [main] INFO  c.o.engineers.EngineersApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-15 21:46:02 [main] INFO  c.o.engineers.EngineersApplication - Started EngineersApplication in 7.133 seconds (process running for 9.982)
+2023-04-15 21:53:20 [http-nio-6666-exec-1] INFO  c.o.e.service.EngineerService - ENGINEER WITH AN ID 4 SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 22:18:52 [main] INFO  c.o.engineers.EngineersApplication - Starting EngineersApplication using Java 18.0.2 with PID 21820 (D:\PROGRAMMING\JAVA AND SPRINGBOOT\APPS-ON-GITHUB\spring-boot-and-logging\target\classes started by GBENGA-OGUNKUADE in D:\PROGRAMMING\JAVA AND SPRINGBOOT\APPS-ON-GITHUB\spring-boot-and-logging)
+2023-04-15 22:18:52 [main] DEBUG c.o.engineers.EngineersApplication - Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-15 22:18:52 [main] INFO  c.o.engineers.EngineersApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-15 22:19:00 [main] INFO  c.o.engineers.EngineersApplication - Started EngineersApplication in 8.507 seconds (process running for 10.168)
+2023-04-15 22:19:02 [http-nio-6666-exec-2] INFO  c.o.e.service.EngineerService - ENGINEER WITH AN ID 4 SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 22:19:18 [http-nio-6666-exec-3] INFO  c.o.e.service.EngineerService - ALL ENGINEERS SUCCESSFULLY FETCHED FROM DATABASE
