@@ -23,3 +23,9 @@
 2023-04-15 22:19:00 [main] INFO  c.o.engineers.EngineersApplication - Started EngineersApplication in 8.507 seconds (process running for 10.168)
 2023-04-15 22:19:02 [http-nio-6666-exec-2] INFO  c.o.e.service.EngineerService - ENGINEER WITH AN ID 4 SUCCESSFULLY FETCHED FROM DATABASE
 2023-04-15 22:19:18 [http-nio-6666-exec-3] INFO  c.o.e.service.EngineerService - ALL ENGINEERS SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 22:34:21 [main] INFO  c.o.engineers.EngineersApplication - Starting EngineersApplication using Java 18.0.2 with PID 30116 (D:\PROGRAMMING\JAVA AND SPRINGBOOT\APPS-ON-GITHUB\spring-boot-and-logging\target\classes started by GBENGA-OGUNKUADE in D:\PROGRAMMING\JAVA AND SPRINGBOOT\APPS-ON-GITHUB\spring-boot-and-logging)
+2023-04-15 22:34:21 [main] DEBUG c.o.engineers.EngineersApplication - Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-15 22:34:21 [main] INFO  c.o.engineers.EngineersApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-15 22:34:27 [main] INFO  c.o.engineers.EngineersApplication - Started EngineersApplication in 6.746 seconds (process running for 8.494)
+2023-04-15 22:34:32 [http-nio-6666-exec-2] INFO  c.o.e.service.EngineerService - ALL ENGINEERS SUCCESSFULLY FETCHED FROM DATABASE
+2023-04-15 22:34:37 [http-nio-6666-exec-4] INFO  c.o.e.service.EngineerService - ALL ENGINEERS SUCCESSFULLY FETCHED FROM DATABASE
