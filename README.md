@@ -7,9 +7,6 @@ How to implement and customized advanced logging in spring boot
 
 How to implement and customized advanced logging in spring boot was Developed By **Gbenga Ogunkuade**
 
-![This is another image](https://github.com/gbengaogunkuade/spring-boot-and-advanced-logging/blob/main/LOGS-IMAGE.png)
-
-
 
 #
 My Name is Gbenga Ogunkuade (+234 8067647853 | electro4real@gmail.com).
